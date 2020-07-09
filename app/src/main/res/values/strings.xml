@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeAutomation</string>
+    <string name="btnLoginText">Login</string>
+    <string name="inputLoginText">Login</string>
+    <string name="inputPasswordText">Password</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="label_server_ip_address">Server IP Address</string>
+    <string name="device_btn_text">Power</string>
+</resources>
